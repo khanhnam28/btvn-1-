@@ -1,0 +1,24 @@
+.login {
+    position: fixed;
+    left: 40%;
+    bottom: 50%;
+}
+.inputfrom {
+    margin:100px;
+    position: fixed;
+    left:35%;
+    bottom:30px; background-color: grey;
+       width: 100%;
+       height: 100px;
+       padding: 20px;
+       border: 10px solid rgb(8, 15, 18) 
+       
+   
+       
+   
+   
+   }
+
+    
+
+
